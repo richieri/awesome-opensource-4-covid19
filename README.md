@@ -2,22 +2,20 @@
 Opensource initiatives for Covid 19 control
 
 ## Tracking software
-
-- [BlueTrace](https://bluetrace.io/) Human Tracking software that uses bluetooth to collect data abour who was near you.
-  - (Reference)https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html
+- [BlueTrace](https://bluetrace.io/) Human Tracking software that uses bluetooth to collect data about who was near you.
+	- (Reference)https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html
 
 ## Equipments
 - [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/) - Facebook group with the porpouse of to evaluate, design, validate, and source the fabrication of open source emergency medical supplies
-
 - [3d printed mask - Universidade Federal Fluminense](http://www.uff.br/?q=projeto-escola-de-engenharia-mascaras-tipo-faceshield-impressora-3d) - 3d printed face mask developed by Universidade Federal Fluminense
-  - [Reference](http://www.uff.br/?q=noticias/24-03-2020/combatendo-o-coronavirus-pesquisadores-da-uff-desenvolvem-mascaras-de-protecao)
+	- [Reference](http://www.uff.br/?q=noticias/24-03-2020/combatendo-o-coronavirus-pesquisadores-da-uff-desenvolvem-mascaras-de-protecao)
+- [E-Vent](https://e-vent.mit.edu/) - Opensource "cheap" ventilator initiative from MIT
+	- [Reference](http://news.mit.edu/2020/ventilator-covid-deployment-open-source-low-cost-0326)
+
 
 ## Impact prediction
 - [Chime](https://github.com/CodeForPhilly/chime) - Capacity Planning software designed to assist hospitals and public health officials with understanding hospital capacity needs as they relate to the COVID pandemic
-  - [Referene](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
-
-Respirador/Ventilador opensource do MIT de US$ 100
-http://news.mit.edu/2020/ventilator-covid-deployment-open-source-low-cost-0326
+	- [Referene](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
 
 Aplicativo para rastrearse vc passou por alguém com Covid-19
 https://catracalivre.com.br/saude-bem-estar/aplicativo-avisa-se-voce-passou-por-alguem-com-coronavirus/
