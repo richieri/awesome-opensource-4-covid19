@@ -1,5 +1,5 @@
-# awesome-opensource-4-covid19
-Opensource initiatives for Covid 19 control
+# Opensource initiatives against Covid 19
+This is a initial list with opensource initiatives against Covid 19. Feel free to help improving this list!
 
 ## Tracking software
 - [BlueTrace](https://bluetrace.io/) Human Tracking software that uses bluetooth to collect data about who was near you.
