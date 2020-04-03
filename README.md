@@ -2,7 +2,9 @@
 This is a initial list with opensource initiatives against Covid 19. Feel free to help improving this list!
 
 ## Statistics and tracking data
-[The Covid Tracking Project](https://covidtracking.com/)
+- [JSON Open data for Covid 19](https://github.com/pomber/covid19) - Daily statistics from world in JSON format
+- [The Covid Tracking Project](https://covidtracking.com/) - US testing data
+- [Painel Coronavirus Brasil](https://covid.saude.gov.br/) - Opendata of Covid 19 in Brazil
 
 ## Personal Tracking Apps
 - [BlueTrace](https://bluetrace.io/) Human Tracking software that uses bluetooth to collect data about who was near you.
@@ -25,22 +27,11 @@ This is a initial list with opensource initiatives against Covid 19. Feel free t
 ## Covid 19 Test and Detection Kits
 - [OpenCovid19](https://app.jogl.io/project/118?) - Covid19 Detection Kit
 - [DNA and RNA Opensource Detector](https://openpcr.org/)
+- [Covid19 Surface Detector](https://www.hackster.io/news/this-open-source-device-can-detect-coronavirus-on-surfaces-3da1d7b1c73a)
+- [Color Opensource Test](https://techcrunch.com/2020/03/31/color-is-launching-a-high-capacity-covid-19-testing-lab-and-will-open-source-its-design-and-protocols/amp/)
 
 ## Coordenated initiatives
 - [opencovid19](https://app.jogl.io/program/opencovid19)
 
-
-Detector de corona em superfícies
-https://www.hackster.io/news/this-open-source-device-can-detect-coronavirus-on-surfaces-3da1d7b1c73a
-
-Teste de ventiladores opensource (40 projetos em andamento)
-https://hackernoon.com/open-source-validation-tests-for-open-source-covid-19-ventilator-projects-la8x3y6e?source=rss
-
-Opensource test
-https://techcrunch.com/2020/03/31/color-is-launching-a-high-capacity-covid-19-testing-lab-and-will-open-source-its-design-and-protocols/amp/
-
-Dados globais do Covid19 em json
-https://github.com/pomber/covid19
-
-Notícias
-https://thegoodnewscoronavirus.com/
+## News
+- [The Good News Coronavirus](https://thegoodnewscoronavirus.com/) - Brazilian initiative for spreading good news of Covid 19
