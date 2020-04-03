@@ -8,9 +8,9 @@ This is a initial list with opensource initiatives against Covid 19. Feel free t
 
 ## Personal Tracking Apps
 - [BlueTrace](https://bluetrace.io/) Human Tracking software that uses bluetooth to collect data about who was near you.
-	- (Reference)https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html
+	- [Reference](https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html)
 - [Safe Paths](https://covidsafepaths.org/) - private by design tracking app by MIT
-	-[Reference](https://catracalivre.com.br/saude-bem-estar/aplicativo-avisa-se-voce-passou-por-alguem-com-coronavirus/)
+	- [Reference](https://catracalivre.com.br/saude-bem-estar/aplicativo-avisa-se-voce-passou-por-alguem-com-coronavirus/)
 
 ## Equipments
 - [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/) - Facebook group with the porpouse of to evaluate, design, validate, and source the fabrication of open source emergency medical supplies
@@ -22,7 +22,7 @@ This is a initial list with opensource initiatives against Covid 19. Feel free t
 
 ## Impact prediction
 - [Chime](https://github.com/CodeForPhilly/chime) - Capacity Planning software designed to assist hospitals and public health officials with understanding hospital capacity needs as they relate to the COVID pandemic
-	- [Referene](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
+	- [Reference](https://www.zdnet.com/article/how-open-source-software-is-tackling-covid-19-coronavirus/)
 
 ## Covid 19 Test and Detection Kits
 - [OpenCovid19](https://app.jogl.io/project/118?) - Covid19 Detection Kit
