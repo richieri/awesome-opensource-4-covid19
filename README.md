@@ -13,6 +13,7 @@ This is a initial list with opensource initiatives against Covid 19. Feel free t
 	- [Reference](https://catracalivre.com.br/saude-bem-estar/aplicativo-avisa-se-voce-passou-por-alguem-com-coronavirus/)
 
 ## Equipments
+- [Inspire](https://www.poli.usp.br/inspire) Open and low cost ventilador from USP Brazil
 - [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/670932227050506/) - Facebook group with the porpouse of to evaluate, design, validate, and source the fabrication of open source emergency medical supplies
 - [3d printed mask - Universidade Federal Fluminense](http://www.uff.br/?q=projeto-escola-de-engenharia-mascaras-tipo-faceshield-impressora-3d) - 3d printed face mask developed by Universidade Federal Fluminense
 	- [Reference](http://www.uff.br/?q=noticias/24-03-2020/combatendo-o-coronavirus-pesquisadores-da-uff-desenvolvem-mascaras-de-protecao)
